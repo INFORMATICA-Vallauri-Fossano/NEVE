@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\neveClient-master",
-    "\\NeveServer-master"
+    "\\neveClient-master\\neveClient",
+    "\\NeveServer-master",
+    "\\NeveServer-master\\NeveServer"
   ],
+  "SelectedNode": "\\NeveServer-master\\NeveServer.sln",
   "PreviewInSolutionExplorer": false
 }

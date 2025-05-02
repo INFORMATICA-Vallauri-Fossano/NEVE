@@ -78,7 +78,7 @@ namespace NeveServer
                     risp = localita.getAllLocalita();
                     break;
                 case "neve":
-                    //return altezze.getAltezze(comando[1]);
+                    risp= altezze.getAltezze(comando[1]);
                     break;
                 default:
                     risp = "Comando errato";
